@@ -1,5 +1,5 @@
 ## makeCacheMatrix() and cacheSolve() functions below will cache
-## and compute the inverser of a matrix
+## and compute the inverse of a matrix
 
 ## makeCacheMatrix: This function creates a special "matrix" object that
 ## can cache its inverse
